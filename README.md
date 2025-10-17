@@ -1,5 +1,5 @@
 ## APEX
-The code for our COLING 2025 paper: **Discarding the Crutches: Adaptive Parameter-Efficient Expert Meta-Learning for Continual Semantic Parsing**.
+The code for our COLING 2025 oral paper: **Discarding the Crutches: Adaptive Parameter-Efficient Expert Meta-Learning for Continual Semantic Parsing**.
 
 ### Model
 Put **t5-base-lm-adapt** into the 'model' directory.
